@@ -1,0 +1,39 @@
+.ocultar {
+    display:none;
+}
+.mostrar {
+    display:block ;
+}
+
+.imgProducto {
+    height: 50px;
+}
+.producto {
+    text-align:center;
+   background-color: aliceblue;
+    margin: 30px;
+    border-color: black;
+    padding: 20px;
+}
+
+.resultado {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+body {
+    background-image: url("img/flores.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.recuadro{
+    background-color: white;
+    margin: 200px 550px;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    
+    
+}
+
